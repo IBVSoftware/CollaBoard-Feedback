@@ -1,4 +1,4 @@
-# CollaBoard-Issues
+# CollaBoard-Feedback
 All issues about Collaboard here
 
 Please when creating a bug it will help us a lot to know
